@@ -22,7 +22,7 @@ Focus: Gain characteristics mapping and load regulation studies.
 Focus: 1kW hardware implementation, Altium PCB design, and TMS320F28379D control.
 
 
-## 🛠 Technical Specifications (Final Target)
+## 🛠 Technical Specifications
 
 **Power Rating:** 1 kW
 
