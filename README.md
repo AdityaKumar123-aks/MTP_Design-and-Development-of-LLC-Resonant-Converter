@@ -13,7 +13,9 @@ This project focuses on the design, simulation, and hardware implementation of a
 # 🚀 Key Features & Methodology
 
 Topology Analysis: Extensive review of Series, Parallel, LCC, and LLC resonant DC-DC converters.
+
 Analytical Validation: Validated SRC, PRC, and LCC gain equations using the **First Harmonic Approximation (FHA)** method.
+
 Soft Switching: Implemented **ZVS (Zero Voltage Switching)** and **ZCS (Zero Current Switching)** techniques to minimize switching losses.
 Design Methodology: Executed detailed design for resonant tank parameters, high-frequency transformer design, and dead-band selection.
 PCB Design: Developed a compact PCB schematic and layout using **Altium Designer** for seamless EV charger integration.
