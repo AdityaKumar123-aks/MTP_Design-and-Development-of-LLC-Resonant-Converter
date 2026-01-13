@@ -2,7 +2,7 @@
 
 Master's Thesis Project | Indian Institute of Technology Bombay 
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on the design, simulation, and hardware implementation of a **1kW, 48V LLC Resonant Converter** tailored for Electric Vehicle (EV) charging applications. The primary objective is to achieve high efficiency through soft-switching techniques and optimized magnetic design.
 
@@ -10,7 +10,7 @@ This project focuses on the design, simulation, and hardware implementation of a
  
 **Duration:** May 2025 – Present 
 
-# 🚀 Key Features & Methodology
+## 🚀 Key Features & Methodology
 
 Topology Analysis: Extensive review of Series, Parallel, LCC, and LLC resonant DC-DC converters.
 
@@ -22,5 +22,5 @@ Design Methodology: Executed detailed design for resonant tank parameters, high-
 
 PCB Design: Developed a compact PCB schematic and layout using **Altium Designer** for seamless EV charger integration.
 
-
  **Simulation Tools** PLECS, LTSpice, MATLAB, Simulink
+
