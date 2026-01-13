@@ -1,6 +1,6 @@
 # Design and Development of LLC Resonant Converter for EV Charging
 
-MTP Final Part | Indian Institute of Technology Bombay 
+MTP Part 3 | Indian Institute of Technology Bombay 
 
 ## 📌 Project Overview
 
