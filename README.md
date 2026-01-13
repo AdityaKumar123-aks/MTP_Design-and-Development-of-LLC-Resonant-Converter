@@ -1,10 +1,10 @@
-# Analysis and Simulation of Series Resonant Converter (SRC)
+# Analysis, Simulation and Hardware Implementation of Series Resonant Converter (SRC)
 
 MTP Part 1 | Energy Science and Engineering, IIT Bombay
 
 📌 **Overview**
 
-This repository contains the analytical modeling and simulation results for the Series Resonant Converter. This was the first phase of my Master's Thesis, aimed at understanding resonant tank behavior and the First Harmonic Approximation (FHA) method.
+This repository contains the analytical modeling, simulation and experimental results for the Series Resonant Converter. This was the first phase of my Master's Thesis, aimed at understanding resonant tank behavior and the First Harmonic Approximation (FHA) method.
 
 🚀 **Key Technical Work**
 
