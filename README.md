@@ -2,11 +2,11 @@
 
 MTP Part 1 | Energy Science and Engineering, IIT Bombay
 
-📌 **Overview**
+## 📌 Overview
 
 This repository contains the analytical modeling, simulation and experimental results for the Series Resonant Converter. This was the first phase of my Master's Thesis, aimed at understanding resonant tank behavior and the First Harmonic Approximation (FHA) method.
 
-🚀 **Key Technical Work**
+## 🚀 Key Technical Work
 
 Modeling: Derived and validated SRC gain equations using the FHA method.
 
