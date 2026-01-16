@@ -1,28 +1,33 @@
 # Design and Development of LLC Resonant Converter for EV Charging
 
-Master's Thesis Project | IIT Bombay (2025 - Present) 
+Master's Thesis Project | Indian Institute of Technology Bombay (2025 - Present) 
 
 
-## 📖 Executive Summary
+## 📌 Project Overview
 
-This repository documents the systematic research, analytical modeling, and hardware development of high-efficiency resonant converters for Electric Vehicle charging. The project follows a three-stage evolution: exploring **Series Resonant (SRC)** and **Parallel Resonant (PRC)** topologies before final implementation of the **LLC Resonant Converter**.
-
-
-## 🏗 Project Roadmap
-
-To explore specific phases of the project, switch to the corresponding branches:
-
-**[Branch: SRC] — Part 1: Series Resonant Converter**
-Focus: FHA method validation and ZCS analysis.
-
-**[Branch: PRC] — Part 2: Parallel Resonant Converter**
-Focus: Gain characteristics mapping and load regulation studies.
-
-**[Branch: LLC] — Part 3: LLC Resonant Converter (Current Focus)**
-Focus: 1kW hardware implementation, Altium PCB design, and TMS320F28379D control.
+This project focuses on the design, simulation, and hardware implementation of a **1kW, 48V LLC Resonant Converter** tailored for Electric Vehicle (EV) charging applications. The primary objective is to achieve high efficiency through soft-switching techniques and optimized magnetic design.
 
 
-## 🛠 Technical Specifications
+**Guide:** Prof. Siddavatam Ravi Prakash Reddy, DESE, IIT Bombay 
+
+**Duration:** May 2025 – Present 
+
+
+## 🚀 Key Features & Methodology
+
+**Topology Analysis:** Extensive review of Series, Parallel, LCC, and LLC resonant DC-DC converters.
+
+**Analytical Validation:** Validated SRC, PRC, and LCC gain equations using the **First Harmonic Approximation (FHA)** method.
+
+**Soft Switching:** Implemented **ZVS (Zero Voltage Switching)** and **ZCS (Zero Current Switching)** techniques to minimize switching losses.
+
+**Design Methodology:** Executed detailed design for resonant tank parameters, high-frequency transformer design, and dead-band selection.
+
+**Hardware:** Hardware prototyping and performance benchmarking using the **TMS320F28379D dual-core DSP**
+
+
+## 📊 Technical Specifications
+
 
 **Power Rating:** 1 kW
 
@@ -33,6 +38,14 @@ Focus: 1kW hardware implementation, Altium PCB design, and TMS320F28379D control
 **Software Stack:** PLECS (Simulation), Altium (PCB), Code Composer Studio (Firmware).
 
 
+## 🛠 Ongoing Work
+
+
+* Developing a compact PCB schematic and layout using **Altium Designer** for seamless EV charger integration
+
+* Implementation of closed-loop control to ensure high efficiency across varying load conditions.
+
+
 ## 🎓 Academic Context
 
 **Institution:** Indian Institute of Technology Bombay (DESE).
@@ -41,4 +54,8 @@ Focus: 1kW hardware implementation, Altium PCB design, and TMS320F28379D control
 
 **Guide:** Prof. Siddavatam Ravi Prakash Reddy.
 
-**Related Coursework:** Power Converters for EV Charging, Energy Efficient Industrial Drives
+**Related Coursework:** Power Converters for EV Charging, Energy Efficient Industrial Drives, Modelling and Control of Inverter based Renewable Resources
+
+
+
+
