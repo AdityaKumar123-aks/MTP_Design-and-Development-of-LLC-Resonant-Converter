@@ -22,23 +22,4 @@ Focus: Gain characteristics mapping and load regulation studies.
 Focus: 1kW hardware implementation, Altium PCB design, and TMS320F28379D control.
 
 
-## 🛠 Technical Specifications
 
-**Power Rating:** 1 kW
-
-**Target Voltage:** 48V (EV standard)
-
-**Control:** Closed-loop control using Dual-core DSP
-
-**Software Stack:** PLECS (Simulation), Altium (PCB), Code Composer Studio (Firmware).
-
-
-## 🎓 Academic Context
-
-**Institution:** Indian Institute of Technology Bombay (DESE).
- 
-**Course:** M.Tech in Energy Science and Engineering.
-
-**Guide:** Prof. Siddavatam Ravi Prakash Reddy.
-
-**Related Coursework:** Power Converters for EV Charging, Energy Efficient Industrial Drives
